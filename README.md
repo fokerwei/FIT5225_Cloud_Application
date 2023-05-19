@@ -1,5 +1,5 @@
-# FIT5225_Cloud_Application
-Assignment 2 of FIT-5225, 2020 Semester 1
+# Cloud_Application
+
 
 A serverless application that uses AWS Lambda, DynamoDB, S3, Amazon API gateway, AWS Cognito and ReactJS.
 
